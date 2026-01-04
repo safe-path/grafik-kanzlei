@@ -5,7 +5,6 @@
  * Version: 1.0.0
  */
 
-<script>
 (() => {
   const S = {
     viewport: '.hero_bottom_slider',
@@ -190,5 +189,4 @@
   rebuild();
   requestAnimationFrame(tick);
 })();
-</script>
 
